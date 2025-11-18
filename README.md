@@ -34,7 +34,7 @@ My background bridges **AI Product Management**, **Game Systems**, and **LLM eng
 ---
 
 ### 📫 Let’s Connect
-- 🌐 [LinkedIn]([https://linkedin.com/in/suvrajitsarkar](https://www.linkedin.com/in/suvrajit-sarkar/))
+- 🌐 [LinkedIn]: https://www.linkedin.com/in/suvrajit-sarkar/
 
 ---
 
