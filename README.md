@@ -24,6 +24,16 @@ My background bridges **AI Product Management**, **Game Systems**, and **LLM eng
 
 ---
 
+## 🎥 Video Demo
+
+<p align="center">
+  <a href="https://youtu.be/TPOw5_7U6Js" target="_blank">
+    <img src="https://img.youtube.com/vi/TPOw5_7U6Js/0.jpg" alt="MedInsight-AI Video Demo" width="600">
+  </a>
+</p>
+
+---
+
 ### 🧭 About Me
 
 🎯 **AI Product Builder** — I connect product strategy and model engineering for impactful agent ecosystems.  
