@@ -1,58 +1,70 @@
-# Hi, I'm Suvrajit 👋
+🚀 Hi, I'm Suvrajit — Lead AI Product Manager & Agentic Systems Architect
 
-I build **AI Agents**, **RAG pipelines**, and **Agentic Systems** that solve real-world problems with production-grade design and developer-first workflows.  
-My background bridges **AI Product Management**, **Game Systems**, and **LLM engineering**, letting me connect strategic vision with hands-on implementation.
+I design and build production-grade AI systems that combine LLM engineering, Azure AI, and multi-agent orchestration to solve complex real-world problems at scale.
+With 17 years across SaaS, gaming, and enterprise automation — and as a Microsoft Certified Azure AI Engineer (AI-102) — I specialize in bridging AI product vision with deep technical execution.
 
----
+I focus on architecting intelligent workflows where Agents, RAG, reasoning loops, and human-in-the-loop systems deliver reliable, measurable business impact.
 
-### 🚀 What I Work On
+🔧 What I Build
+🧠 Agentic AI Architectures
 
-🧠 **Agentic AI Systems** — Multi-agent orchestration, RAG + reasoning loops, retrieval optimization, and goal-directed planning.  
-💾 **RAG Pipelines** — FAISS, hybrid search, structured chunking, Azure OpenAI integration, scalable ingestion and embedding pipelines.  
-🎮 **AI in Games** — Auto-battler systems, simulation logic, economy design, matchmaking, and autonomous game AI agents.  
-⚙️ **LLM Apps** — From local fine-tuned models to Azure-hosted inference APIs and hybrid RAG + workflow automation.  
-🧩 **Infra & Tooling** — FastAPI backends, LangChain, Azure AI, OpenAI SDK, and async pipelines for data + model orchestration.
+Multi-agent reasoning loops, orchestrators, task planners, autonomous workflows, domain-specific agents, and production systems with monitoring + fallback design.
 
----
+📚 RAG Pipelines (Enterprise & Azure Native)
 
-### 🧰 Featured Work
+Custom chunkers, embedding pipelines, FAISS / hybrid search, grounding strategies, OpenAI + Azure OpenAI integration, structured retrieval, and safety-aligned workflows.
 
-- 🪄 **ProviderGPT** — Enterprise-grade AI Agent platform for intelligent data provisioning, risk scoring, and knowledge RAG.  
-- ⚡ **Dawn of War** — AAA-quality Unity Auto-battler powered by Netcode, Relay, and AI-assisted design systems.  
-- 🧱 **Agentic Azure RAG Stack** — Modular ingestion → FAISS indexing → Ask endpoint powered by OpenAI + FastAPI.  
-- 🧩 **Local LLM Tools** — Optimized inference, LoRA fine-tuning, and offline RAG agents for privacy-first AI.  
+🎮 AI for Games & Simulations
 
----
+Economy systems, auto-battler logic, matchmaking flows, game state simulation, AI-assisted content generation, and rapid GDD workflows using multi-agent design.
 
-## 🎥 Video Demo
+⚙️ LLM Applications & Infrastructure
 
-<p align="center">
-  <a href="https://youtu.be/5P37PO5GuWs">
-    <img src="https://img.youtube.com/vi/5P37PO5GuWs/0.jpg" alt="GameGenie AI Demo" width="600">
-  </a>
-</p>
+FastAPI backends, Azure OpenAI deployment, async streaming engines, prompt-flow orchestration, and developer-first API tooling.
 
-<p align="center">
-  <a href="https://youtu.be/TPOw5_7U6Js" target="_blank">
-    <img src="https://img.youtube.com/vi/TPOw5_7U6Js/0.jpg" alt="MedInsight-AI Video Demo" width="600">
-  </a>
-</p>
+🏗️ AI Engineering + Product Leadership
 
----
+Specs, roadmaps, north-star metrics, UX for AI systems, validation cycles, and cross-functional execution from concept → delivery.
 
-### 🧭 About Me
+🏆 Featured AI Work
+🧠 ProviderGPT (Medisight AI)
 
-🎯 **AI Product Builder** — I connect product strategy and model engineering for impactful agent ecosystems.  
-🧠 **AI Systems Design** — My focus is on reliability, interpretability, and human-aligned AI behavior.  
-🌍 **Community** — I share templates, guides, and agent starter kits that help developers build smarter, faster.  
-💬 **Building what’s next** in RAG, Agents, and Hybrid AI Infrastructure. Always open to collaborate or discuss your next AI idea.
+Enterprise-grade AI agent system for provider verification, document intelligence, risk scoring, and knowledge RAG (reducing analyst cycle time by 70%).
 
----
+🪄 GameGenie AI
 
-### 📫 Let’s Connect
-- 🌐 [LinkedIn]: https://www.linkedin.com/in/suvrajit-sarkar/
+A fully autonomous multi-agent GDD creation engine powered by orchestration + RAG.
+Transforms high-level ideas into complete AAA-style Game Design Documents.
 
----
+⚡ Agentic Azure RAG Stack
 
-⭐️ _Currently building at the intersection of Agents × Infra × Product._
+A modular ingestion → indexing → Ask pipeline using Azure OpenAI, FAISS, and FastAPI.
+Built for reliability, transparency, and enterprise scaling.
 
+🧩 Local LLM & Private RAG Tools
+
+Offline inference pipelines, LoRA fine-tuning experiments, and on-device retrieval agents for privacy-first deployments.
+
+🎥 Video Demos
+GameGenie AI — Autonomous Multi-Agent GDD Engine
+<p align="center"> <a href="https://youtu.be/5P37PO5GuWs"> <img src="https://img.youtube.com/vi/5P37PO5GuWs/0.jpg" alt="GameGenie AI Demo" width="600"> </a> </p>
+MedInsight AI — ProviderGPT Automated Verification System
+<p align="center"> <a href="https://youtu.be/TPOw5_7U6Js"> <img src="https://img.youtube.com/vi/TPOw5_7U6Js/0.jpg" alt="MedInsight-AI Video Demo" width="600"> </a> </p>
+🧭 About Me
+
+🎯 Lead AI Product Manager (AI-native) — I align business outcomes with cutting-edge AI engineering.
+🧠 AI Systems Designer — I specialize in safe, reliable, human-aligned agent ecosystems.
+🤝 Builder & Mentor — I share frameworks for agent design, RAG architectures, and AI workflow optimization.
+🌍 AI102 Certified — Microsoft Azure AI Engineer certification ensures enterprise-grade implementation rigor.
+
+Always exploring what’s next at the intersection of Agents × RAG × Infra × Product.
+
+📫 Let’s Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/suvrajit-sarkar/
+
+💻 GitHub: https://github.com/suvrajits
+
+✉️ Email: suvrajit.arowana@gmail.com
+
+⭐ Currently building next-generation AI systems that combine multi-agent reasoning, RAG, and Azure-native workflows to transform how teams design, build, and operate products.
